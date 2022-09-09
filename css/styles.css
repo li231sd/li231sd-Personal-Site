@@ -1,0 +1,34 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-color: #a6dada;
+    height: 0px;
+    width: 4%;
+    border-style: dotted none none;
+    border-width: 6px;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+h3 {
+    font-family: sans-serif;
+    font: bold;
+    color: #66BFBF;
+}
+
+h2 {
+    color: #66BFBF;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+a {
+    color: rgb(0, 152, 190);
+}
